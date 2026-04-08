@@ -10,4 +10,4 @@ workers_dev = true
 UUID = "af485aaa-d663-4aa6-a82f-26580f114ee8"
 # TROJAN_PASSWORD = "your-trojan-password"  # Optional: If not set, UUID will be used as password
 # SOCKS5 = "127.0.0.1:1080"
-# SOCKS5_RELAY = "true"
+## SOCKS5_RELAY = "true"
