@@ -2,7 +2,7 @@ name = "yorhagin"
 main = "src/index.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
-# node_compat = true
+node_compat = true
 workers_dev = true
 
 [vars]
